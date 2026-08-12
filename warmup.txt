@@ -1,0 +1,8 @@
+BEGIN
+ INPUT entered_age
+ IF entered_age IS EQUAL TO 18 or_older THEN
+  DISPLAY "WElcome to Southern Labs!"
+ ELSE
+  DISPLAY "Access Denied."
+ ENDIF
+END
