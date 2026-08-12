@@ -1,1 +1,1 @@
-[My Process Flowchart](age_check)
+[My Process Flowchart](age_check.png)
